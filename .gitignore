@@ -1,0 +1,16 @@
+# Compilación
+bin/
+build/
+out/
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+*.user
+CMakeSettings.json
